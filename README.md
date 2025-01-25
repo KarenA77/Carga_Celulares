@@ -23,8 +23,8 @@ El sistema se desarrollará en dos versiones:
 - **Prototipo físico**: Simulación de compartimentos con sensores para verificar la presencia de dispositivos y el cierre de las puertas.  
 
 ## Lenguajes de Programación Utilizados  
-- **C++ (Arduino)**: Para programar los microcontroladores y controlar sensores, actuadores e interfaz de usuario.  
-- **Proteus (Simulación)**: No es un lenguaje, pero se usará para simular el hardware antes de implementarlo físicamente.  
+- **C++ (Arduino)**: se utilizo para programar los microcontroladores y controlar sensores, actuadores e interfaz de usuario.  
+- **Proteus (Simulación)**: se utilizo para simular el hardware antes de implementarlo físicamente.  
 
 ## Tecnologías Utilizadas  
 - **Arduino** para el control del hardware.  
